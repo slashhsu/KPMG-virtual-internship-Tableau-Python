@@ -6,7 +6,6 @@ This project explores customer data analysis for Sprocket Central Pty Ltd using 
 2. **Customer Classification & Predictive Modeling**
 3. **Market Opportunity Identification**
 
-![Customer Segmentation](https://github.com/your-repo/kpmg-data-analysis/assets/customer_segmentation_chart.png)
 
 ---
 
@@ -21,8 +20,6 @@ This project explores customer data analysis for Sprocket Central Pty Ltd using 
 - **Duplicates:** No duplicate values were found.
 - **Data Cleaning:** Unnamed columns were dropped, and inconsistent data formats were corrected.
 
-![Data Cleaning Process](https://github.com/your-repo/kpmg-data-analysis/assets/data_cleaning_chart.png)
-
 ---
 
 ## 2. Customer Classification & Predictive Modeling
@@ -32,13 +29,11 @@ This project explores customer data analysis for Sprocket Central Pty Ltd using 
 - Customers aged **40-50** have the highest bike purchases.
 - Female customers have a slightly higher purchase rate.
 
-![Age Distribution](https://github.com/your-repo/kpmg-data-analysis/assets/age_distribution_chart.png)
 
 #### Job Industry Analysis
 - Top three profit-generating industries: **Financial Services, Manufacturing, and Health**.
 - These industries also show the highest potential for future profits.
 
-![Job Industry Insights](https://github.com/your-repo/kpmg-data-analysis/assets/job_industry_chart.png)
 
 #### Car Ownership Analysis
 - **New South Wales** presents the biggest market opportunity as car owners and non-car owners are nearly equal.
@@ -51,7 +46,6 @@ This project explores customer data analysis for Sprocket Central Pty Ltd using 
   - Work in **Financial Services, Manufacturing, and Health** industries.
   - Residing in **New South Wales and Victoria**.
 
-![High-Value Customer Classification](https://github.com/your-repo/kpmg-data-analysis/assets/high_value_customers_chart.png)
 
 ---
 
@@ -61,8 +55,6 @@ This project explores customer data analysis for Sprocket Central Pty Ltd using 
 📌 **Female customers should be a key target for marketing strategies.**
 📌 **Financial Services, Manufacturing, and Health sectors are the top markets for potential high-value customers.**
 📌 **New South Wales has significant untapped potential due to equal car and non-car ownership rates.**
-
-![Market Opportunity Analysis](https://github.com/your-repo/kpmg-data-analysis/assets/market_opportunity_chart.png)
 
 ---
 
